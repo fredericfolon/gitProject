@@ -1,2 +1,2 @@
-const a = 100;
+const y = 'Hi there';
 const b = 50;
