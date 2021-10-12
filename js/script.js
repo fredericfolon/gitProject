@@ -1,2 +1,1 @@
-const y = 'Hi there';
-const b = 50;
+const b = 'Hi there';
